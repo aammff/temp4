@@ -7,3 +7,7 @@ ostatecznie może się okazać że są dilda mniej lub bardziej jadalne no o i 
 no ewidentnie występuje to jakieś zniezrozumiałe zagadnienie w myśleniu
 
 to jest trochę o dynamicznym typowaniu i językach tego typu tam jakby takie problemy występują może i nie wiadomo nie wiem czy są rozwiązywalne może nie włas właśnie
+
+castowania między typami które są jkaby automatyczne automagicze to są zawsze arbitralne i taki kod jest wątpliwy jak nie z programu to z kompilatora języka programowania bo czemu akurat a takie a nie inne zasady przyjęli tak samo jakieś priorytety wykoy wykonywania jakichś operatorow niby matematycznych to tez jest takie sobie
+
+tj explicit vs implicit no implicit sa jakby slabsze cy chyba
