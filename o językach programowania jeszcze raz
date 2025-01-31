@@ -1,0 +1,34 @@
+język maszynowy można s zobaczyć jak jest skonstruowany zaprojektowany np różne sposoby implementacji liczb j ujemnych albo zmiennoprzecinkowych  jak są opkody konstruowane mapowane jakieś kwestie nieudoko umentowanych instrukcji tego typu błędy różne w implementacjach mikroprocesorów takie kwestie
+
+języki assemblerowe paradoksalnie tam się dużo zdieje m bo od razu są języki makrowe tam i tam się praktycznie implementuje coś w stylu C zupełnie na ziendobry a moze i cos wiecej ktoo wie
+
+jezyki makrowe jakies m4 jakies systemy przepisywania termow tu sie duzo dzieje ale sie slabo znam albo wcale
+
+jezyki w stylu forth no to sie jakby samo wymysla jakis urokliwy minimalizm to ma to ma jakby sens bo cache procesora nie jest niewiadomo jak duzy zazwyczjaj wiec nawet moze sie oplacac interpretowac a nie wykonywac bezposrendnio
+
+jezyki typowane moga sie oplacac zeby sie w glowie nie rozjezdzal kod niewiadomo jak bardzo a nie tylko zeby byledow nie yblo choc to tez bardzo wazne jak nie nawazjniejsze ale na to pierwsze ludzie nie zwracaja uwagi
+
+w prologu np jakis algorytm kompresji najprostszy rle od razu sie implemetnuje w dwie strony kompresor i dekomrpree dekompresoer i nie teo ze sie nie da tego zrobic ze dwie osobne funkcje sa ale taki kod wyglada blednie jeakby zupelnie inaczej niz w innych jezykach programowania gdzie sie nie da pr po o prostu jednoczesnie programowac w dwie strony chyba ze to jest jezyk od razu tak pomyslany jakis n janus reversible programming
+
+w lispie jest niestandardowo obecnie dynamic scope a takze ta czworka lambda apply eval quote ktora jest jakby elegancjka no i te metacykliczne interpretery wygladaja sensownie to troche sie do prloga applyuje zagrozenia jednego i drugiego to odsmiecarki popularnych implementacji nie pamietam jak czy istnieja albo moga istniec implemetneacje nieodsmiecarkowe
+
+odsmiecarki sa bardzo grozne wbrew pozorom malo kto na to uwage zwraca ze programy odsmiecarkowe to sa uposledzone prototypy programowa np nie da sie gier tak programowac i iw audio i wielu innycch to jest w zasadzie tylko p do programowania tzw w trybie wsadowych m batch programming
+
+systemy obiektowe to w zasadzie jakies biblioteki dla lisp m np clos albo dla c jest gobject czy cos i jakby integracja tego na sile no to jest jakas decyzja projektowo estetycznee a i saj jezyki tego typu typu c++ albo java .net czy inne takie chociaz tam nie tylko o to chodzi o  ale od tego zaczynali
+
+w c++ system d templateow jest bardzo ciekawy
+
+w haskellu jest lazy evaluation wszechobecne i to jest bardzo zmienia i pretty powerful natomiast odsmiecarka jest niestety ale byc moze daje sie jej uniknac 
+
+to sa takie prymitywy jezykow programowania inne jezyki sa jakby posl poskladane z tego i sa jakastam kombinacja costam pwe pewnie pominalem istotnego raczej na pewno tak  np jakis algol z ortogonalnie perzystentny czy cos ciagle jakby cos no nie wiem jseszcze ciagle czytam o roznych tego typu kwestiach smiesznie
+
+jtj tj mam ma sie wrazenie ze naprawde nie wiem wszystkiego co powini powinieniem a ktos inny owszem tak i w przynajmniej w jakims kawalku
+
+sql jest deklaratywny w taki sposob ze to nikomu nie przeszkadza i nie wadzi mimo ze jakby co to tam sie da procedury osadzać 
+
+sporo jezykow jest w jakims sensoie wygodnych czy popularnych bo duzo bilbiotek jest i daje sie szybko i latwo c zrobic cos co bedzie dzialalo choec bedzie ogolnie niskiej jakosci czyli jakas na analogia w stylu lodowka ktora chlodzi ale tak c halasuje i takie zaklocenia elektromagnetyczne wywoluje ze na drugim koncu kraju ja sluchac slychac to takie rzeczy sa w programowaniu
+
+czyli konkretnie mamy w obrocie w obiegu popularne jest jakis soft ktory zajmuje niewiaodmo ile mb megabajtow czy gigabajtow a teoretycznie powinien zajmowac kilka rzedow wielkosci mniej ia a takie cos jest poplaularne niewiaodmo jak bardzo i to w przemnozone wszystko powoduje ze jakby no straty sa bardzo duze na jakbiy liniach laczach transferowycch jakby pradu i malo osob na to uwage zwraca
+
+no to jest pol biedy jak ktos sie sobie w chalupie costam prototypuje skonstruuje a co innego jaki miliony czy wiecej osob z jakiegos dziadosstwa korzysta i to jeszcze jest uznawane za p czy promowane za jkais wysoki standard
+
