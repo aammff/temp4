@@ -1,0 +1,7 @@
+jak ostatnim razem sprawdzałem to hello world po skompilowaniu i zlinkowaniu zajmowal tyle miejsca ze zaczalem szukac artykulow na ten temat i znalazlem nawet wies wiec
+
+wniosek jakby taki ze jako narzedzie rust jest niedopracowany dla jakiejs grupy uzytkownikow bardziej niz kompilator linker C
+
+natomiast raczej jest bardziej powerful
+
+inna sprawa jest kwestia bootstrappingu i nie wiadomo czy rust jest poprzez c++ czy poprzez ocaml bo informacje na ten m temat sa rozne albo tu pisza tu nie pisza i w ogole nie wiadomo co jest grane
