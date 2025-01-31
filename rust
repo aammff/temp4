@@ -5,3 +5,5 @@ wniosek jakby taki ze jako narzedzie rust jest niedopracowany dla jakiejs grupy 
 natomiast raczej jest bardziej powerful
 
 inna sprawa jest kwestia bootstrappingu i nie wiadomo czy rust jest poprzez c++ czy poprzez ocaml bo informacje na ten m temat sa rozne albo tu pisza tu nie pisza i w ogole nie wiadomo co jest grane
+
+coś jakby przesyłka przychodziła w pudle bardzo wielkim zupełnie niedostosowanym do przychodzącego przedmiotu 
