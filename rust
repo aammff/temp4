@@ -9,3 +9,5 @@ inna sprawa jest kwestia bootstrappingu i nie wiadomo czy rust jest poprzez c++ 
 coś jakby przesyłka przychodziła w pudle bardzo wielkim zupełnie niedostosowanym do przychodzącego przedmiotu 
 
 jesli to wielkoscia binarek to jedyny problem to byc moze i tak mimo tego lepiej w tym niz w czyms innym tj w C czy C++ kto wie mozliwe niewykluczone bo zdaje sie ze sie daje sobie jakby co sobie z tym poradzic h chociaz sie trzeba narobic na ten moment czy tamten
+
+wg wikipedii rust pojawil sie trzynascie lat temu wiec jak wie widze takie wielkie binarki tego trypu typu problemy to kwestionuje swoja poczytalnosc po prostu czy oni tgo tego nie widza czy tylko u mnie takie wielkie tego typu rzeczy no przeciez to teoretycznie powinno byc latwe do poprawienia to czemu przez trzynascie lat tego nikt nie zrobil i czy wobec tego powinienemm sie zaglebiac w tej ten jezyk moze to jakies dziadostwo po prostu j to z binarkami wielkoscia jeszcze wize moze saa problemy ktorych nie jestem w stanie pojeac np i to tylko taki sygnal ostrzegawczy jest nio no nie wiem tak to wyglada dla laika z zewnatrz
