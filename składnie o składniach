@@ -1,0 +1,24 @@
+składnie o składniach czyli trochę pochwała nawiasów
+
+języki nawiasowe to te scheme lisp racket tego typu tam jakby od razu widać czy w miarę ok cz czy nie wystarczy policzyć nawiasy post posprawdzać czy pasują zreszßa zresztą edty edytory to robią no ale jakby
+
+w głowie nie  sie się nie rozjedza nie trzeba pamiętać nie wiadomo jak barow barokowej skomplikowanej składni wystarczy posprawdzać jakby w słowniku dokumentacji co te słowa w nawiasach znaczą i w amia w miarę
+
+wiadomo co jest grane i to nie jest spłycone tylko rzeczywiście wszystko jest w porządku tka jak ma być no nawet konwencja jest chyba żeby te nazwy najprostyszch operacji matematycznych słownie pisać wiec mamy
+n
+np (plus 10 20) zamiast (+ 10 20) co jakby mniej tajemniczo moze wyglądać no n różnie ale 
+
+
+inna składnia która też jest spoko to jest to co w forth czyli jakby to samo co nawiasami ale bez nawiasoów bo tak sprytnie w jakimś sensie ale też jakby taki minimalizm
+
+jakies elemetny skladniowe no  są języki gdzie jakby króluje średnik że wszystko musi być tym średnikiem zakończone inaczej się nie liczy nie jest to jakiś głupi pomysł wcale i jakby można się mniej bac niż
+
+tych języków gdzie tego średnikam średnika nie ma tylko jakby jest koniec wiersza i nie można t dwóch jakby równorzędnych równoważnych alboe więcej instrukjcji jna jednym wierzu jwierszu umieścić bo nie
+
+
+inna sprawa literate programming jak się okazuje w to assemblery były czymś takim bo tam normalnie w dokumentacji były dyrektywy sterujące do drukarki np c że ma być po 20 stron na stronie drukowane no nie ma
+
+takich  dyrektoyw zazwyczaj astandardowo w popularniejszych językach
+
+
+są języki typu K albo APL co is się można ni ich bać i nimi ludźmi straszyć ale myślę że konkretnie sprawność programowania w czymśtakim daje jake jakieś bonusy mentalne
