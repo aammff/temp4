@@ -1,0 +1,14 @@
+???
+
+ify i wyjątki jakby matematycznie są równoważne to samo można napisać jednym i drugim sposobem natomiast
+
+różnica jest w oznaczaniu tj wyjątek oznacza że ten fragment jeśli się wykonuje to coś jest źle i w idealnym świecie tego nigdy nie powinno być to tzn tj to nie powinno zajść jakby nigdy najlepiej jakby nie
+
+czyli np jak się gra w szachy to i wygrana i przegrana będzie ifami obsługiwana ale np błąd w łączeniu się z jakimś zdalnym serwerem gry no to będzie już wyjątek bo tego nie chcemy
+
+więc wychodzi że tak jakby czasami chcemy przegrywać i wygrywać w szachach ale nigdy nie chcemy mieć problemów z połączeniem z serwerem gier
+
+czyli tak jakby były dwa typy ifów ify pozytywne if then else i ify negatywne try except
+
+
+https://en.wikipedia.org/wiki/Exception_handling_syntax
