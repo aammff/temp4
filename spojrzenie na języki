@@ -1,0 +1,21 @@
+assembler wiadomo assember assembler i jakieś makra
+
+c uniwersalny assembler przy czym c może być łatwiej tj kompilator c w forthu napisać niż w c aj niż w assemblerze
+
+v v< c++ to jakby uniwersalny assembler wysokiego poziomu ze względju na różne ficzery templaty  i inne rzeczy
+
+te jezyki sa zwane impearatywnymi   jezyki deklaratywne w odroznieniu od jakby  no jest tam sa tam funkcjce anonimowe i mozena nimi swobodnie manipulowac a jakby runtimeowo no i takie jezyki sie jakby w z f
+   dziwnie to brzmi ale jakby z fortha sie bardziej wywodza niz w c tj latwiej je w forthu ziamplementowac niz w c bo tam jest w forthu dynamiczne dodawnaie nowych slow w runutimeie standardowo jakby brzmi dziwnie no ale
+    no moze to nie dkooknca prawda ale cos wtym stj est jakis prototyp moze byc tak latwo zaimplementowac  np np no np rachunek 
+
+    tzn tam jest  tzn bardziej moze chodzi o styl imperatywny a nize a nie ze sie nie da tylko jakby domyslny styl co jest przyjete ze za zgodne ze stylem tzn deklaratywny
+    tez raczej nie ma az takiego bezposredniego przelozenia z e ze sposobem wykonania a jakby bezposrednimi instrukcjami popularnych procesorow ew wiec to jest jakby odk odleglosc torche po od tzw maszyny
+      z tym ze jakby trzoc troche cczasmi powstaja j specjalizowane procesore y mo pod danycj jezyk czyli np maszyny lispowe albo forthowe i jakby wtedy no  ano ael pise pierwsze pre procesory jednak 
+      mialy budowe wiadomo jaka i do czego zblizona jakby ani  no mialy ro rejestry w i ewentualnie jakies wsparcie do dla stosow pierwsze procesory a nie do np list czy slow
+
+      w haskellu jest cos takiego jak lazy evaluation  czyli no leniwy model wykonywania obliczen i on jest jakby no nie ma bezposredniego przeloezenia zupelnie na procesor tylko tak tam no jest to konkretnie skomlplikowane
+        podobnie torche moze jak w sl sql sql tez nie ma bezposrednego przelozenia na mikropreocesor model wyliczania sql
+        czegos takiego jak typy to tez nie ma na mikroprocesorze zupelnie  
+
+        jest cos takiego jak tail call p optimization i jezyki typu c albo ++ c++ jakby tego nie oferuja o a jezyki te funkcyjne to czesto tak i jakby to jest wymagane w prologu tez jest os cos podobnego i to tez nie ma 
+         jakby tzn to ma takie no  no jest to takie optimization jakby ale to nie jest 1=1 1-1 jeden do jednego mapowanie tylko takie bardziej zaawansowane
