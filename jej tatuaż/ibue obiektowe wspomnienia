@@ -1,0 +1,119 @@
+obiektowe wspomnienia
+
+czy twórcy języków programowania chcieliby żeby ktokolwiek się stresował nimi tymi językami ich twórczością jakieś egzaminy pisał sesyjne albo inne stresował się i inne takie
+
+na pewno nie
+
+także paradoks
+
+ogólne to j takie egzaminy nauka języków programowania w cudzysłowiu na u nauka to jest bardziej jakiś happening artystyczny inaczej tego traktowanć nie można
+
+tzn to jest ca czasami całkiem pozytywny happening
+
+nie mniej jednak jakby takie podejście że tam się uczestniczy z ludźmi w jakichś zajęciach i się używa wspólnego sprzętu takie rzecyz to wszystko może jakieś no deadlocki mentalne robić zakleszczenia po prostu
+
+i efektywnie można być potem n mniej sprawnym programistą programistom chyba nie  niż jakby się w warunkach jakby bezstresowych jakby samemu w miare nabywało jakieś doświadczenie no wszystko może nie wsyzstko
+
+to jak jednak ma takie ukryte koszty po prostu   i szczególnie to jest niebezpieczne jeśli dużo osób jest i jakby ż źle się metodycznie do tego podejdzie tj kwestia drobnyc niezauważalnych szczegółów i można m
+
+bardzo zepsuć
+
+
+przykładowo mam wątpliwości co t do tego jak było był taki przedmiot z strasznie mul mułowaty na mime mii mimie programowanie obiektowe właśnie   tzn niby taki tak zwany michałek bardzo łatwo przedmiot mało stresujący
+
+i jakby w cudzysłowiu ekstremalnie praktyczny     było tam z tego co pamiętam nieco o ce plus plus  i trochę o smalltalku    
+
+no i tak niby wszystko okej ce plus plus to jakby wiadomo nie ma się do czego przyczepić je język jaki jest taki jest jest to w miarę ok natomiast no trudny język nieb nie ma co
+
+
+natomiast ten smalltalk to jest śmiesznie bo to jest taka maszyna wirtualna trochę taki pół system operacyjny  i tam niestety jest ta choleran cholerna odśmiea odśmiecarka co to mózgi uszkadza m szybciej lub wolniej 
+
+no i tam było takie może nie wymaganie ale zalecenie żeby takiej komercyjnej wersji e tego smalltalka uz użyć do jakby zadań zaliczeniowych da tak zwanych zadanek różnych tam był taki projek projekcik no i ludzie
+
+używali tego gówno dziadostwa nie dość że odśmiecarka to jeszcze komercyjna  nie m pamiętam nazwy firmy nawet
+
+
+ja tam gnu smalltalka zastosowałem no bo jakośtak nie wiem mniej kombinowania było i też się dało i nie miałem zaufania do tamtej komercji
+
+no efekt y uboczny tamtej komercji chyba nawet nie opensourceowej i odśmiecarkowej to taki że tam się ludzie wspólnie świadomościowo zakleszczają po prostu to nie jest zgodne z zsa zasadą namj najmniejszej niespodzianki
+
+
+
+a sama popularność tych różnych systemów obiektopodobnych to włą włas właśnie głównie t z tych odśmiecarek się bierze tb bo tam jakby się pomija taki istotny fragment jakby zarządzania pamięcia kiedy zwolnić a kiedy nie
+
+tam jest taki istotny fragment softu algorytm detektor sy cykli po prostu  no i efektywnie kto tego używa to współdzieli tegn ten kod detektora cykli z innymi a to jest closed source a to jest dość ważny e algorytmy w myśleniu
+
+czy jest cykl czy nie ma
+
+
+no i właśnie tak wygląda nauka na najlepszym wydziale tzn wyglądała w polsce  no niby to dobrze ale problem ostatniej mili    kiedy się ot tym dowiedziałem dwadzieścia lat pónź później na to mi do głowy przyszło kiedy już 
+
+jakby straciłem kontakt z ze sœi światem programowania to powoli ze mnie te cholerne odśmiecarkowe oa algorytmy z mojej głowy poschodziły
+
+
+to są takie hipotezy niby ale uzasadnione
+
+
+po prostu odśmiecarki gc garbage collection to jest jedno wielkie gówno groźne dla mózgu
+
+
+i jakby w kwestii popularnej czy coś jest deklaratywne to jt taki rant pisze im wiecej slow troche tym lepiej
+
+
+czy cos jest deklaratywne czy niedke niedeklaratywne no to   
+
+
+jezeli co s tyka urzadzen no to w tej z czesci jest imperatywne nie ma sily i jakby nieokniecznie cos w tym zlego
+
+a cala reszta no to jakby jest w pewnym sem sensie deklaratywna natomiast szczegoly szczegoliki 
+
+no bo jaka semantyke a ma kod uzywajacy odsmiecarek ktory ktore nie wiadomo kiedy i jak sie odpalaja bo to jest regulaowane z zewnatrz przeciez
+
+no chyba srednio mozna podac semantyke czegos takiego
+
+
+
+semantyke takich programow pisanych w stylu obiektowym ktory jkaby nie wiem z czego wynika jak jego attrakcyjnosc trudno powiedziec w ogole  tzn to nie powinien byc jakiby dominujacy parag paradygmant mo paradygmat nie ma takiego powodu
+
+no to jest jakis styl programowania ktory prowadzi w szybkim tempie do niewyobrazalnego wzrostu skomplikowania roznych bla bla bla sz sciezek przebiegow j
+
+
+
+no odechciewa sie ogolnie pisac czegokolwiek jak to jest tak pisane wszystko   tzn takie programy pisane w stylu i obiektowym to jak to sie potem przy tym nowa osoba cos robi to wszystko jest tak na klei klej i tasme w sensie jak sie nie 
+
+wyklada nie wypiernicza to sie przyjmuje sze ze jest ok a to jest takie no nie powiem co to jest to nie jest matematyka
+
+
+
+takie cos prowadzi t tez t do takich niewidzialnych mentalnych zakleszczen i potem ludzie sie ni jakby synchronizuja w jakichs niespodizewanych momentach i potem j sa nprz przykladowo  jakies dziwne spotkania albo w cudzyslowiu
+
+myslalem o tym samym i ludzie myslae ze to jakies niewiadomo co jakies ezo bezo a to po prostu gownosoft
+
+
+progrmowanie obiektowe mozna przechrzcic na programowanie marketingowe po prostu to sa zabiegi marketingowe i tylko tchyba temu sluzy a marketing wiaodmo ryje banie ryje mozg ryje czerep kwestia czasu i statystyki
+
+
+tzn mozna sie spodziewac ze jakies systemy pisane w ten sposob w pewnym momencie sie wypierdola naprawde efektownie i nikt nie bedzie wiedzial co i jak bo to sa takie pu poukrywna pour poukrywane zaleznosci
+
+albo moze byc tak ze z ew w jakims po momencie nap np jkaies programy traca popularnosc niewiadomo czego no tego typu efekty
+
+byc moze temu sluza te ciagle updaty roznych molochow pseudoinformatycznych oni tam sie nie moga zatrzymac p pr po prostu bo to jest jedno wielkie gowno pisane na innym wilkim wielkim gownie polaczone niw nie wiaodmo jak w gowniany sposob
+
+pierdyliard zaleznosci i nikt nie nic nie wie tak na prawde
+
+
+takze wszystkie dot nety jakies dzawy nawet jak lepiej nawpi napisane to i tak jest gowno
+
+tak nawte jakies scale jakies no wszystkie wszystko co dizala na tych rantajmach odms os odsmiecarkowych to jest jedno wielkie gowno 
+
+
+jedyna zaleta byc moze tego jest taka ze to sie daje dosc latwo czesto dekompilowac wiec aw w razie nie dostarczania jakichs kodow zrodlowych to mozna sobie czesto latwo podejrzec jakies fragmenty ale to taki efekt jakby uboczn troche
+
+tak przecieli mnie szatany lekarze i spolka niech zgina niech umra i wszyscy z nimi skojarzeni znane numery human sacrifice animal sacrifice kamerki lusterka i wio i jazda i samochidki samocho samochodziki i jeszcze kosciolek do tego
+i 
+i spowiedz nieletnich i sa s i szatan gow gotowy niech sku skisna te kurwy te pedaly te pizdy 
+
+
+tak tak handel organami nie ma co do lekarzy skurwieli chodzic wszyscy winni jakby bli byli niewinni dt to by sie zwolnili i ucieakl i uciekali z kraju wszyscy winni bez wyjatku bp przeklinam ich niech szczezna lacznie z psychologami terapeurrtami
+
+i innym gownem pomioty szqt zsz szatana nic wiecej lusterka kinematograficzne bez mozgu mp po prostu
