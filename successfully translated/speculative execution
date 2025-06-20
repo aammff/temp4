@@ -1,0 +1,47 @@
+speculative execution
+
+chyba na pentium się to pojawiło niby super miało być jakies mikroprocesory procesory superskalarne chyba tkaie słowo o tutaj zauważenie przestawienia
+
+w każdym razie potem historia poj pokazała że by pomysł ten był słaby cyba chyba bo błędy si i się procresor procesor zamiast z trybu chronionego
+
+to się zrobił taki tryb cooperative multitasking trudno to nazwać inaczej czyli trzeba ostrożeni ostrożnie programować żeby jeden wątek drugiemu nie zepsuł
+
+
+ogólnie chyba lepiej żeby procesory nie miały tych branch predictorów jakichś jednoczesnych pipelinów żeby może miały więcej d rdzeni ale prostr prostszych
+
+może jakies jakieś wsparcie obsługa do czegoś w stylu fg fpga dlaczemu dlaczego nie
+
+
+czyli cy czy pr czy języ  język c jest imperatywny czy deklr deklarato dak deklaratywny no skoro tam są niewiadomo jak zaawansowane i skomplikowane optymalizacje
+
+a tak jest w popularnych kompilatorach to trochę deklaratywny jest   natomiast to jest kwestia też czy się programuje w stylu takim że się w programowanie programista
+
+zajmuje stanem czy unika implicite bezpośredniego handling obsługiwania stanu to jest takie popularne ważne rozgraniczenie i się raczej przyhm przyjmuje żeby o ile
+
+się da to unikać zajmowania się bezpośrednio stanem stanami co dziwne ale jakby się daje bardzo często tzn przyjmuje się że to jest bardziej eleganckie i jeśli rzeczywiście
+
+kompilator jest odpowiednio sprytny to może tak nawet być i ile lepiej  szybciej ale to do sprawdzenia tutaj zaznaczone są takie wątpliwości programistyczne
+
+
+stan w tych językach zaawansowanych jego obsługa to można eu emulować i to dość śmiesznie wygląda   styl funkcyjny to można rozumieć tak że albo są funkcje anonimowe
+
+takie coś czego nie ma bezpośrednio na mikroprocesorach więct to j s to ś są takie byty abstrakcyjne  albo że jest dostarczona biblioteka standardowa z popularnymi
+
+funkcjami typu map fold filter tkaie tam i że się unia zajmowania się tablicami bo jakby funkcyjnie to tam nie da się tablicy w czasie stałym indeksowania zrobić
+
+czasami to nie przeszkadza no takie różne wątki żeby się lepiej myślenie przeliczało
+
+
+nie wiem jak te kompilatory prologów działają czy one jakby tłumaczą jeden do jednego i p tylko takie proste po optymalizacje robią czy też są bardzo zaawansowane
+
+tak jak te kompilatory c albo haskella i co by się stało gdyby styl prologowy w haskellu zapisać czy takie coś by dobrze sie się optymalizowało  takie rzeczy chodzą
+
+mi po głowie a pewnie znaczą coś zupełnie innego  chyba najbardziej jestem zawiedziony produkcją intela że oni po prostu popsulli mikroprocesory zaczynahąc cza zaczynając 
+
+od pentium wcześniejsze procesory były prostsze ale praktycznie bez błędów a potem to się dziadostwo zaczęło robić straszliwe wstyd i to niestety aha no jak się dużo czasu
+
+spędza przy komputerach to można s zdrowie z stracić przez te błędy inne zagadnienie czy jeśli się dużo programuje a potem kompilatory jakby zame zamieniają kod na coś innego
+
+to czy to jest bezpieczne dla osoby programującej  i może właśnie dlatego może to dziwnie brzmi lepiej nie stosować zaawansowanych optymalizacji nie wiem takie kolejne zagadnienie
+
+na ile jest d sens prz prz przekształcać to co programista zapisał i kiedy
